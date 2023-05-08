@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apu655&label=Profile%20views&color=0e75b6&style=flat" alt="apu655" /> </p>
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **DevOps and Data Science**
 
 - 👯 I’m looking to collaborate on **Startup and exciting ideas**
 
