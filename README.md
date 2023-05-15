@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Startup and exciting ideas**
 
-- 💬 Ask me about **React, Next Js, Node Js, Express Js**
+- 💬 Ask me about **React, Next Js, Node Js, Express Js, Nest Js**
 
 - 📫 How to reach me **opu.razzak@gmail.com**
 
