@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apu655&label=Profile%20views&color=0e75b6&style=flat" alt="apu655" /> </p>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Artificial Intelligence**
 
-- 👯 I’m looking to collaborate on **Startup and exciting ideas**
+- 👯 I’m looking exploring AI and pursue research goals**
 
 - 💬 Ask me about **Python, React, Next Js, Node Js, Express Js, Nest Js, Java, Spring Boot**
 
